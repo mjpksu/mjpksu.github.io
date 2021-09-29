@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/09/27/hello-world/</url>
+    <content><![CDATA[<h2 id="欢迎使用"><a href="#欢迎使用" class="headerlink" title="欢迎使用"></a>欢迎使用</h2><p>Hello World！</p>
+<span id="more"></span>
+
+]]></content>
+      <tags>
+        <tag>note</tag>
+        <tag>learning</tag>
+        <tag>productivity</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>first</title>
+    <url>/2021/09/29/first/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
